@@ -1,9 +1,5 @@
 # Databricks notebook source
-#Group Members
-# Mananage Sanjaya Kumara          mmk190004
-# Dona Hasini Gammune              dvg190000
-# Sahra Premani                    snp200002
-# Shradha Upadhyay                 sxu140730
+#Group Members: 4
 
 # COMMAND ----------
 
